@@ -6,6 +6,7 @@ An extension of the BotoCore [CloudFrontSigner class](https://github.com/boto/bo
 
 ```sh
 python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
