@@ -15,5 +15,5 @@ pip install -r requirements.txt
 To run the example code, you'll need to create a private/public key pair (see [official documentation](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-trusted-signers.html#private-content-creating-cloudfront-key-pairs)). Then update the variables in the code and run:
 
 ```sh
-python cookie_cutter.py
+python signers.py
 ```
